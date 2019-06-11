@@ -1,0 +1,3 @@
+-r common.txt
+
+pytest-flask~=0.15.0
